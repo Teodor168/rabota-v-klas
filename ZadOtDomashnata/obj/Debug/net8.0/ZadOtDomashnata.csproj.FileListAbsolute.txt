@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ZadOtDomashnata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ZadOtDomashnata.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ZadOtDomashnata.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ZadOtDomashnata.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\bin\Debug\net8.0\ZadOtDomashnata.exe
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\bin\Debug\net8.0\ZadOtDomashnata.deps.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\bin\Debug\net8.0\ZadOtDomashnata.runtimeconfig.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\bin\Debug\net8.0\ZadOtDomashnata.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\bin\Debug\net8.0\ZadOtDomashnata.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ZadOtDomashnata.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\refint\ZadOtDomashnata.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ZadOtDomashnata.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ZadOtDomashnata.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\ZadOtDomashnata\obj\Debug\net8.0\ref\ZadOtDomashnata.dll

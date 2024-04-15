@@ -1,0 +1,14 @@
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\Figuri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\Figuri.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\Figuri.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\Figuri.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\bin\Debug\net8.0\Figuri.exe
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\bin\Debug\net8.0\Figuri.deps.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\bin\Debug\net8.0\Figuri.runtimeconfig.json
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\bin\Debug\net8.0\Figuri.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\bin\Debug\net8.0\Figuri.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\Figuri.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\refint\Figuri.dll
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\Figuri.pdb
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\Figuri.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-3\Documents\TeodorIliev9a\Classes9a\Figuri\obj\Debug\net8.0\ref\Figuri.dll
